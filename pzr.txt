@@ -26,3 +26,6 @@ Mygak
 c3T_BOG_3A_MHOU
 bandos
 BEST_Sharpness
+REVENGE_client
+REVENGE_boost
+vatafak
